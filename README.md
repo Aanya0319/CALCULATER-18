@@ -13,7 +13,8 @@ This project focuses on **UI design (Neumorphism style)** without any JavaScript
 
 ## 📸 Preview
 
-![Calculator UI](./screenshot.png)
+<img width="1891" height="902" alt="calculater png" src="https://github.com/user-attachments/assets/0ea69415-e8c1-4841-93fc-cbaf9edda7e2" />
+
 
 ---
 
