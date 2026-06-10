@@ -7,7 +7,7 @@ This project focuses on **UI design (Neumorphism style)** without any JavaScript
 
 ## 🚀 Live Demo
 🔗 [View UI Design](#)  
-*(Add GitHub Pages link here)*
+https://github.com/Aanya0319/CALCULATER-18
 
 ---
 
